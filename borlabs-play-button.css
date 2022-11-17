@@ -1,0 +1,13 @@
+a._brlbs-btn._brlbs-icon-play-white {
+    background: #d9b779!important;
+    color: white!important;
+	transition: 0.2s ease all
+}
+
+a._brlbs-btn._brlbs-icon-play-white:hover {
+    background: #bf925a!important;
+}
+
+a._brlbs-btn._brlbs-icon-play-white:before {
+    filter: brightness(100) saturate(0) contrast(100);
+}
